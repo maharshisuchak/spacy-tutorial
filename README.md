@@ -1,12 +1,8 @@
-# README #
+# Natural language Processing With SpaCy and Python #
 
-In this repository all the scripts written while learning Spacy and Machine Learning are mentioned.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* NLP a form of AI or Artificial Intelligence (Building systems that can do intelligent things)
+* NLP or Natural Language Processing – Building systems that can understand everyday language. It is a subset of Artificial Intelligence.
+* SpaCy by Explosion.ai (Matthew Honnibal)
 
 ### How do I get set up? ###
 
