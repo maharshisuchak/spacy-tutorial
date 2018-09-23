@@ -23,7 +23,6 @@
 + python -m spacy download en
 - - with cmd administrator
 
-
 ### Installing using Conda
 + conda install -c conda-forge spacy
 + sudo python -m spacy download en
